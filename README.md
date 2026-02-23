@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="https://github.com/ArtemDuduk/ArtemDuduk/blob/main/assets/logo_png-03-03-03-05.png" alt="Header" width="180"/>
+  <img src="https://github.com/ArtemDuduk/ArtemDuduk/blob/main/assets/logo_png-03-03-03-05.png" alt="Header" width="360"/>
 </a>
 
 # Привет! Меня зовут Артем.
