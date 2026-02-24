@@ -10,7 +10,8 @@
 
 Я - начинающий тестировщик, прошедший специализированную подготовку в области тестирования ПО. Владею ключевыми инструментами для работы на позицию Junior QA Engineer и обладаю всеми необходимыми навыками для успешного старта карьеры в IT.
 
-📫 Можно связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:"duduk.artem23@gmail.com") и 👇
+📫 Можно связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:"duduk.artem23@gmail.com") 
+и 👇
 
 ---
 
