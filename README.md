@@ -73,8 +73,8 @@
 <ul>
   <li><a href="https://github.com/ArtemDuduk/Web-shop-testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/ArtemDuduk/API_testing">Тестирование API</a> – REST и SOAP через Postman</li>
-  <li><a href="https://drive.google.com/drive/folders/1moiq-BmSuNNjh4OKlcPA_h9zahLS9PaA?usp=sharing">MySQL</a> – запросы и скрипты для проверки БД</li>
-  <li><a href="https://drive.google.com/drive/folders/1CpL01kUWKJrqUhYPFgnNmZhjFXxS0Ji3?usp=sharing">Bash</a> – комманды bash</li>
+  <li><a href="#">MySQL</a> – запросы и скрипты для проверки БД</li>
+  <li><a href="#">Bash</a> – комманды bash</li>
   </ul>
 
   <h3 align="center"> 📫 Давайте общаться и сотрудничать! </h3>
