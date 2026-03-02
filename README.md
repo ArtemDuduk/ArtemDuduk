@@ -8,17 +8,11 @@
 
 ### 👨‍💻 Обо мне:
 
+<p>
 Я - начинающий тестировщик, прошедший специализированную подготовку в области тестирования ПО. Владею ключевыми инструментами для работы на позицию Junior QA Engineer и обладаю всеми необходимыми навыками для успешного старта карьеры в IT.
-
-📫 Можно связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:"duduk.artem23@gmail.com") 
-<br>и 👇
+</p>
 
 ---
-
-### 🤝 Социальные сети:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/artem-duduk)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/artem_duduk)
 
 ### 📁 Тестовая документация:
 
@@ -71,3 +65,21 @@
 </div>
 
 ---
+
+### 📋 Артефакты:
+
+</div>
+
+<ul>
+  <li><a href="https://github.com/ArtemDuduk/Web-shop-testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/ArtemDuduk/API_testing">Тестирование API</a> – REST и SOAP через Postman</li>
+  <li><a href="https://drive.google.com/drive/folders/1moiq-BmSuNNjh4OKlcPA_h9zahLS9PaA?usp=sharing">MySQL</a> – запросы и скрипты для проверки БД</li>
+  <li><a href="https://drive.google.com/drive/folders/1CpL01kUWKJrqUhYPFgnNmZhjFXxS0Ji3?usp=sharing">Bash</a> – комманды bash</li>
+  </ul>
+
+  ### 📫 Давайте общаться и сотрудничать!
+<div>
+  <a href="https://www.linkedin.com/in/artem-duduk"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://t.me/artem_duduk"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:duduk.artem23@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+</div>
