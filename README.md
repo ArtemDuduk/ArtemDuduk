@@ -73,7 +73,7 @@
 <ul>
   <li><a href="https://github.com/ArtemDuduk/Web-shop-testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/ArtemDuduk/API_testing">Тестирование API</a> – REST и SOAP через Postman</li>
-  <li><a href="#">MySQL</a> – запросы и скрипты для проверки БД</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1MeKKoclwZMP-HSM7l35ty4iaIWAoHAAWXY6CpbPt-F8/edit?usp=drive_link">MySQL</a> – запросы и скрипты для проверки БД</li>
   <li><a href="#">Bash</a> – комманды bash</li>
   </ul>
 
