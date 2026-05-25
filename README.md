@@ -2,14 +2,16 @@
   <img src="https://github.com/ArtemDuduk/ArtemDuduk/blob/main/assets/logo_png-03-03-03-05.png" alt="Header" width="360"/>
 </a>
 
-# Привет! Меня зовут Артем <img src="https://i.pinimg.com/originals/c4/bd/86/c4bd8626fbf60358d1b83ef265948f9d.gif" height="23" alt="ladybug">
+# Привет! Меня зовут Артём.
 
 ---
 
 ### 👨‍💻 Обо мне:
 
 <p>
-Я - начинающий тестировщик, прошедший специализированную подготовку в области тестирования ПО. Владею ключевыми инструментами для работы на позицию Junior QA Engineer и обладаю всеми необходимыми навыками для успешного старта карьеры в IT.
+Я — квалифицированный тестировщик с профильной подготовкой в области тестирования ПО. Обладаю всеми необходимыми компетенциями для позиции Junior QA Engineer <img src="https://assets.stickerswiki.app/s/fluentemoji7/564743c7.webp" height="19" alt="ladybug"> и готов внести вклад в качество программных продуктов вашей команды.
+
+В моём <a href="https://drive.google.com/drive/folders/1RFLsKCWpLzAI2ijRtXioAASYzC97qFr_?usp=sharing">резюме</a> вы найдёте подробную информацию о профессиональном опыте и образовании. Ниже представлен перечень инструментов, с которыми я работал, а в разделе «Артефакты» собраны примеры выполненных заданий и документации (чек‑листы, тест‑кейсы, баг‑репорты) — как учебных проектов, так и реальных коммерческих работ.
 </p>
 
 ---
@@ -20,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="30" height="30"/>&nbsp
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="30" height="30"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="30" height="30"/>&nbsp
+  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="30" height="30"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp
 </div>
 
@@ -68,13 +71,11 @@
 
 ### 📋 Артефакты:
 
-</div>
-
 <ul>
   <li><a href="https://github.com/ArtemDuduk/Web-shop-testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/ArtemDuduk/API_testing">Тестирование API</a> – REST и SOAP через Postman</li>
-  <li><a href="#">MySQL</a> – запросы и скрипты для проверки БД</li>
-  <li><a href="#">Bash</a> – комманды bash</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1MeKKoclwZMP-HSM7l35ty4iaIWAoHAAWXY6CpbPt-F8/edit?usp=drive_link">MySQL</a> – запросы и скрипты для проверки БД</li>
+  <li><a href="https://github.com/ArtemDuduk/Bash-Cheat-Sheet">Bash</a> – комманды bash </li>
   </ul>
 
   <h3 align="center"> 📫 Давайте общаться и сотрудничать! </h3>
