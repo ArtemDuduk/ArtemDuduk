@@ -2,7 +2,7 @@
   <img src="https://github.com/ArtemDuduk/ArtemDuduk/blob/main/assets/logo_png-03-03-03-05.png" alt="Header" width="360"/>
 </a>
 
-# Привет! Меня зовут Артем.
+# Привет! Меня зовут Артем <img src="https://i.pinimg.com/originals/c4/bd/86/c4bd8626fbf60358d1b83ef265948f9d.gif" height="23" alt="ladybug">
 
 ---
 
