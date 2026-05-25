@@ -73,7 +73,7 @@
 
 <ul>
   <li><a href="https://github.com/ArtemDuduk/Web-shop-testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
-  <li><a href="#">Тестирование веб-приложения крупной европейской fintech-компании</a> – Свободное (интуитивное) тестирование (Ad-hoc Testing)</li>
+  <li><a href="https://github.com/ArtemDuduk/Testing-of-the-Capital.com-web-application/blob/main/README.md">Тестирование веб-приложения европейской fintech-компании</a> – Свободное (интуитивное) тестирование (Ad-hoc Testing)</li>
   <li><a href="https://github.com/ArtemDuduk/API_testing">Тестирование API</a> – REST и SOAP через Postman</li>
   <li><a href="https://docs.google.com/spreadsheets/d/1MeKKoclwZMP-HSM7l35ty4iaIWAoHAAWXY6CpbPt-F8/edit?usp=drive_link">MySQL</a> – запросы и скрипты для проверки БД</li>
   <li><a href="https://github.com/ArtemDuduk/Bash-Cheat-Sheet">Bash</a> – комманды bash </li>
