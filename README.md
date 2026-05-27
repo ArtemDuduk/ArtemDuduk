@@ -82,6 +82,6 @@
   <h3 align="center"> 📫 Давайте общаться и сотрудничать! </h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/artem-duduk"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://t.me/artem_duduk"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="https://t.me/artsiom_duduk"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
   <a href="mailto:duduk.artem23@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
   </p>
